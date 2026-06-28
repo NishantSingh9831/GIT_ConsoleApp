@@ -11,6 +11,7 @@ namespace GIT_ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Master Copy");
+            Console.WriteLine("Updaetd from local test branch");
         }
     }
 }
